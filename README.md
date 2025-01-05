@@ -3,7 +3,7 @@
 - 😄 Pronouns: She
 - 👀 I’m doing an UG program in AI 
 - 🌱 Currently learning AI, ML, MLOps, & literally everything 😂
-- 📫 Follow me on Github n LinkedIn 
+- 📫 Follow me on Github & LinkedIn 
 
 
 
